@@ -1,10 +1,14 @@
 The YakData brightRserver Editor is based on the work of RStudio PBC, under the AGPL-3 license. Modifications were made to respect the use of trademarks that appear in the GUI and to remove several features for the brightRserver environment. 
 
-The current version of brightRserver Editor is v1.0.0 and is based on RStudio version 1.3.959.
+The current version of brightRserver Editor is v1.0.0 and is based on RStudio version 1.3.959. 
 
 Released 2020-12-08. YakData brightRserver Editor is released under AGPL-3.
 
 YakData is not associated with nor endorsed by RStudio PBC. YakData products are not the same products as paid offerings of RStudio PBC. RStudio is a trademark of RStudio, PBC. YakData is a trademark of YakData, LLC.
+
+YakData brightRserver
+=============================================================================
+[YakData brightRserver](https://yakdata.com) is a game-changer for data teams worldwide. Develop and share web applications using the most popular package for R web apps. Build web apps with the brightRserver Editor, a secured version of the most widely-used open-source editor for R. Quickly publish R web applications to brightRserver and secure access by authorizing specific users or groups. Launch your project today in one of 14 locations worldwide and eliminate the hassle of maintenance and upgrades with a fully hosted brightRserver from YakData.
 
 RStudio
 =============================================================================
